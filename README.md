@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ranidu Ashinsana!
 
-<!--
-**ashinsana540/ashinsana540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- **Name:** Ranidu Ashinsana  
+- **Age:** 22  
+- **Major:** Software Engineering (Undergraduate)  
+- Passionate about coding, software development, and learning new technologies.
 
-Here are some ideas to get you started:
+## 🎯 Goals
+- Improve my programming and problem-solving skills 💻  
+- Explore modern software development technologies 🌐  
+- Build impactful and innovative projects 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Programming Languages: C, C++, Java, Python  
+- Web Development: HTML, CSS, JavaScript  
+- Database: MySQL, Oracle  
+- Tools: Git, VS Code, Android Studio  
+
+## 📫 Contact Me
+- Email: ashinsanaranidu5@gmail.com
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/)  
+- GitHub: [My GitHub](https://github.com/)
